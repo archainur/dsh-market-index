@@ -1,0 +1,46 @@
+{
+  "format": 1,
+  "title": {
+    "en": "dshmarket",
+    "zh": "dshmarket 插件市场"
+  },
+  "description": {
+    "en": "A plugin market index for dshmarket, the community plugin market for DeepSeek Harness.",
+    "zh": "dshmarket 社区插件市场的插件索引。"
+  },
+  "plugins": [
+    {
+      "name": "dshmarket",
+      "title": {
+        "en": "dshmarket — Plugin Market",
+        "zh": "dshmarket 插件市场"
+      },
+      "description": {
+        "en": "Visual plugin market inside DeepSeek Harness — browse, search, and one-click install community plugins.",
+        "zh": "DSH 可视化插件市场：逛一逛，点一下，装好。"
+      },
+      "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiByb2xlPSJpbWciIGFyaWEtbGFiZWxsZWRieT0idCI+CiAgPHRpdGxlIGlkPSJ0Ij5kc2gtbWFya2V0PC90aXRsZT4KICA8IS0tIFNoYXJlZCBicmFuZCBtYXJrIHdpdGggYXdlc29tZS1kc2gtcGx1Z2luOiB0aGUgYmxvY2sgZ3JpZCB3aXRoIG9uZQogICAgICAgY2lubmFiYXIgYmxvY2sgYmVpbmcgcGx1Z2dlZCBpbi4gLS0+CiAgPHJlY3Qgd2lkdGg9IjEyOCIgaGVpZ2h0PSIxMjgiIHJ4PSIyOCIgZmlsbD0iI2Y2ZjJlYSIvPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE1LjcgMTYuNykgc2NhbGUoMC4zKSB0cmFuc2xhdGUoLTExMiAtNzgpIj4KICAgIDxnIGZpbGw9IiMyYjI2MjAiPgogICAgICA8cmVjdCB4PSIxMTIiIHk9IjExMiIgd2lkdGg9Ijg4IiBoZWlnaHQ9Ijg4IiByeD0iMTQiLz4KICAgICAgPHJlY3QgeD0iMjEyIiB5PSIxMTIiIHdpZHRoPSI4OCIgaGVpZ2h0PSI4OCIgcng9IjE0Ii8+CiAgICAgIDxyZWN0IHg9IjExMiIgeT0iMjEyIiB3aWR0aD0iODgiIGhlaWdodD0iODgiIHJ4PSIxNCIvPgogICAgICA8cmVjdCB4PSIyMTIiIHk9IjIxMiIgd2lkdGg9Ijg4IiBoZWlnaHQ9Ijg4IiByeD0iMTQiLz4KICAgICAgPHJlY3QgeD0iMTEyIiB5PSIzMTIiIHdpZHRoPSI4OCIgaGVpZ2h0PSI4OCIgcng9IjE0Ii8+CiAgICAgIDxyZWN0IHg9IjIxMiIgeT0iMzEyIiB3aWR0aD0iODgiIGhlaWdodD0iODgiIHJ4PSIxNCIvPgogICAgICA8cmVjdCB4PSIzMTIiIHk9IjIxMiIgd2lkdGg9Ijg4IiBoZWlnaHQ9Ijg4IiByeD0iMTQiLz4KICAgICAgPHJlY3QgeD0iMzEyIiB5PSIzMTIiIHdpZHRoPSI4OCIgaGVpZ2h0PSI4OCIgcng9IjE0Ii8+CiAgICA8L2c+CiAgICA8cmVjdCB4PSIzNDYiIHk9Ijc4IiB3aWR0aD0iODgiIGhlaWdodD0iODgiIHJ4PSIxNCIgZmlsbD0iI2MwMzkyYiIgdHJhbnNmb3JtPSJyb3RhdGUoOSAzOTAgMTIyKSIvPgogIDwvZz4KPC9zdmc+Cg==",
+      "author": "dsh-market",
+      "homepage": "https://dshmarket.com",
+      "repository": {
+        "url": "https://github.com/dsh-market/dsh-market"
+      },
+      "versions": [
+        {
+          "version": "1.66.37",
+          "publishTimestamp": 1792259271,
+          "source": {
+            "type": "npm"
+          }
+        },
+        {
+          "version": "1.66.32",
+          "publishTimestamp": 1792170484,
+          "source": {
+            "type": "npm"
+          }
+        }
+      ]
+    }
+  ]
+}
